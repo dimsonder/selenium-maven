@@ -1,7 +1,7 @@
-package com.lazerycode.selenium.tests;
+package com.cherubim.selenium.tests;
 
-import com.lazerycode.selenium.DriverBase;
-import com.lazerycode.selenium.page_objects.GoogleHomePage;
+import com.cherubim.selenium.DriverBase;
+import com.cherubim.selenium.page_objects.GoogleHomePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;

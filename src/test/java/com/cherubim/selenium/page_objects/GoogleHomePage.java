@@ -1,6 +1,6 @@
-package com.lazerycode.selenium.page_objects;
+package com.cherubim.selenium.page_objects;
 
-import com.lazerycode.selenium.DriverBase;
+import com.cherubim.selenium.DriverBase;
 import com.lazerycode.selenium.util.Query;
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
