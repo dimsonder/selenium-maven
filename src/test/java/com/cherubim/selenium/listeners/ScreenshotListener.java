@@ -1,4 +1,4 @@
-package com.lazerycode.selenium.listeners;
+package com.cherubim.selenium.listeners;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -11,7 +11,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-import static com.lazerycode.selenium.DriverBase.getDriver;
+import static com.cherubim.selenium.DriverBase.getDriver;
 
 public class ScreenshotListener extends TestListenerAdapter {
 
