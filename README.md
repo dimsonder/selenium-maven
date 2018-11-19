@@ -1,5 +1,6 @@
 
-打开命令行/IDE,clone后,根目录下运行 `mvn clean verify -Dbrowser=chrome` 将会下载依赖，项目已经上传最新的driver
+打开命令行/IDE,clone后,根目录下运行 `mvn clean verify -Dbrowser=chrome` 将会下载依赖，如果下载失败，请在此处下载：
+[点击此处](https://github.com/qq0313/selenium_standalone_binaries). 
 
 
 ### 说明
