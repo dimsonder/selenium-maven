@@ -5,6 +5,9 @@ import com.lazerycode.selenium.util.Query;
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
+/**
+ * 谷歌
+ */
 public class GoogleHomePage {
 
     private final RemoteWebDriver driver = DriverBase.getDriver();
