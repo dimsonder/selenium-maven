@@ -1,10 +1,5 @@
 
-1. Open a terminal window/command prompt
-2. Clone this project.
-3. cd project root.
-4. `mvn clean verify`
-
-将会下载所有依赖，项目已经上传最新的driver
+1. 打开命令行/IDE,clone后,根目录下运行 `mvn clean verify` 将会下载所有依赖，项目已经上传最新的driver
 
 
 ### 说明
