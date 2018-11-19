@@ -17,7 +17,7 @@ public class GoogleExampleIT extends DriverBase {
     }
 
     @Test
-    public void googleCheeseExample() throws Exception {
+    public void googleExample() throws Exception {
         // 创建 WebDriver instance
 
         WebDriver driver = getDriver();
